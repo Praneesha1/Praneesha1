@@ -6,7 +6,7 @@ Hi there , I am Praneesha
 
 ⚙️ Interested in Design Engineering, Manufacturing, and Simulation
 
-🛠️ Learning Fusion 360, ANSYS, Abaqus, and Python
+🛠️ Learning Fusion 360, ANSYS, Abaqus.
 
 📖 Continuously improving my skills through CAD modeling and engineering projects
 
