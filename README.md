@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there , I am Praneesha
 
-<!--
-**Praneesha1/Praneesha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="color:#9B59B6;">Who Am I?</h2>
 
-Here are some ideas to get you started:
+ A second-year Mechanical Engineering student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Interested in Design Engineering, Manufacturing, and Simulation
+
+🛠️ Learning Fusion 360, ANSYS, Abaqus, and Python
+
+📖 Continuously improving my skills through CAD modeling and engineering projects
+
+🎯 Aspiring Mechanical Design Engineer
+
+
