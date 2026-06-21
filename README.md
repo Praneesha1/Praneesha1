@@ -10,6 +10,6 @@ Hi there , I am Praneesha
 
 📖 Continuously improving my skills through CAD modeling and engineering projects
 
-🎯 Aspiring Mechanical Design Engineer
+
 
 
