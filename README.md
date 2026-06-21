@@ -2,7 +2,7 @@ Hi there , I am Praneesha
 
 <h2 style="color:#9B59B6;">Who Am I?</h2>
 
- A second-year Mechanical Engineering student.
+ A third-year Mechanical Engineering student.
 
 ⚙️ Interested in Design Engineering, Manufacturing, and Simulation
 
